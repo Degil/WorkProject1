@@ -18,5 +18,10 @@ l = ['hello', 'there', 'test', 'list']
 dict['seven'] = 7
 l.append('added text')
 l.insert(0, 'start')
-for x in l:
+# for x in l:
+#     print(x)
+
+test = ['test', 'for', 'GitHub']
+
+for x in test:
     print(x)
