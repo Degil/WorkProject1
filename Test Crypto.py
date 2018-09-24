@@ -23,5 +23,5 @@ l.insert(0, 'start')
 
 test = ['test', 'for', 'GitHub']
 
-for x in test:
-    print(x)
+for x, c in enumerate(test):
+    print(x, c)
